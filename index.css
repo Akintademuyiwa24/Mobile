@@ -375,8 +375,8 @@ border-radius: 50px;
       position: relative;
       /* left: 10px; */
       line-height: 5px;
-      font-size: 0.61rem;
-      line-height: 14px;
+      font-size: 0.5rem;
+      line-height: 12px;
    }
     .part-2{
       width: 80%;
@@ -397,7 +397,7 @@ border-radius: 50px;
  .part-2 img{
     position: relative;
     top: -95px;
-    left: 30px;
+    left: 8px;
     bottom: 60px;
     width: 230px;
     height:196px;
@@ -425,8 +425,8 @@ border-radius: 50px;
     position: relative;
     /* left: 10px; */
     line-height: 5px;
-    font-size: 0.59rem;
-    line-height: 14px;
+    font-size: 0.5rem;
+    line-height: 12px;
  }
   .part-3{
       width: 80%;
@@ -471,8 +471,8 @@ border-radius: 50px;
     position: relative;
     /* left: 10px; */
     line-height: 5px;
-    font-size: 0.61rem;
-    line-height: 14px;
+    font-size: 0.5rem;
+    line-height: 12px;
  }
 
  .box-4{
@@ -493,20 +493,20 @@ z-index: 1;
 .box-4 h4{
    position: absolute;
    top: 20px;
-   left: 6%;
+   left: 5%;
    text-align: center;
-   font-size: 12px;
+   font-size: 11px;
    padding: 10px;
    border: none;
 }
 
 .box-4 button{
    position: absolute;
-left: 19%;
-top: 60px;
+left: 15%;
+top: 70px;
 background-color: magenta;
 color: #fff;
-padding: 8px 17px;
+padding: 6px 17px;
 text-align: center;
 font-size: 13px;
 border: none;
@@ -567,7 +567,7 @@ border-radius: 50px;
 }
 #content-1 h5{
    /* position: absolute; */
-   font-size: 0.57rem;
+   font-size: 0.5rem;
    line-height: 14px;
 }
 
@@ -583,9 +583,9 @@ border-radius: 50px;
 #img-0{
    position: absolute;
    right: 30px;
-   top: 290px;
-   width: 230px;
-   height:196px;
+   top: 330px;
+   width: 210px;
+   height:150px;
 }
 .i-img button{
    position: absolute;
